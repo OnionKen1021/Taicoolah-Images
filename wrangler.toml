@@ -1,6 +1,6 @@
 name = "images"
 pages_build_output_dir = "./dist"
-compatibility_date = "2025-1-1"
+compatibility_date = "latest"
 
 [env.production.vars]
 API_HOST = "https://images.taicoolah.com"
