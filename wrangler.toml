@@ -1,6 +1,7 @@
 name = "images"
 pages_build_output_dir = "./dist"
 compatibility_date = "2025-1-1"
+main = "src/index.tsx"
 
 [env.production.vars]
 API_HOST = "https://images.taicoolah.com"
